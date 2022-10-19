@@ -1,0 +1,62 @@
+
+.container{
+    margin-left: 10rem !important;
+    margin-right: 100rem !important;
+}
+.product_img{
+    box-shadow: 5px 5px 10px #919296;
+    width: 170px;
+    height: 200px;
+}
+.description{
+    padding: 30px;
+    border: none;
+    box-shadow: 5px 5px 10px #919296;
+}
+.btn_rent{
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #679e95;
+}
+.btn_wishlist{
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    background-color: #1b1e2a;
+}
+.Sbooks{
+    overflow: visible;
+    height: 300px;
+}
+.Sbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    box-shadow: 5px 5px 10px #919296;
+}
+/* just added */
+.just_added{
+    padding-top: 5%;
+    padding-bottom: 10%;
+    background-color: #f8f9fa;
+}
+.line{
+    height: 3px !important;
+    color:  #679e95;
+}
+.title{
+    margin-bottom: 2%;
+}
+/* wave */
+.wave{
+    
+    background-image: linear-gradient(to right,#679e95,#1b1e2a);
+}
+.wave_2{
+    width: 100%;
+}
